@@ -1,0 +1,2 @@
+# Cancer-Classification-And-Interpretability-Using-Explainable-AI
+Show drafts    Imagine fighting a monster (cancer) with detective work (traditional diagnosis). It works, but it's not perfect. This project uses a super-smart brain (AI) to analyze pictures and spot the monster early. The cool part is, the AI explains its reasoning, highlighting suspicious areas, just like a good detective showing their clues! 
