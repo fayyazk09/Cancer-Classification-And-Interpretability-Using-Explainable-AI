@@ -10,7 +10,14 @@ Deep Learning: Inspired by the brain, it revolutionizes image analysis, but can 
 Explainable AI (XAI): Aims to make AI decisions more transparent, including highlighting suspicious areas in images.
 
 Project Focus: Compare three pre-trained CNNs (VGG-16, EfficientNetB0, MobileNetV3) on a dataset of eight cancer types.
+![image](https://github.com/fayyazk09/Cancer-Classification-And-Interpretability-Using-Explainable-AI/assets/92106244/dbf38d12-85a7-4f90-952f-ddbe877c8c21)
+
 
 Evaluation: Analyze models' effectiveness using accuracy, precision, recall, and F1-score metrics.
 
 Visualization: Use Grad-CAM++ to show image regions most crucial for the model's predictions, aiding doctor understanding.
+
+![image](https://github.com/fayyazk09/Cancer-Classification-And-Interpretability-Using-Explainable-AI/assets/92106244/dd084d84-4826-4033-b1b2-b316fcbd2011)
+
+
+
